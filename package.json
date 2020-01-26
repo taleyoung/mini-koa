@@ -1,0 +1,24 @@
+{
+  "name": "mini-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taleyoung/mini-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taleyoung/mini-koa/issues"
+  },
+  "homepage": "https://github.com/taleyoung/mini-koa#readme",
+  "dependencies": {
+    "events": "^3.1.0",
+    "http": "^0.0.0",
+    "url": "^0.11.0"
+  }
+}
